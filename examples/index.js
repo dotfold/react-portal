@@ -148,7 +148,6 @@ export default class App extends React.Component {
           </div>
         </Portal>
 
-
         <Portal
           openByClickOn={button5}
           closeOnEsc
